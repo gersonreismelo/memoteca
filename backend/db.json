@@ -1,0 +1,22 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Passo informações para o componente filho.",
+      "autoria": "Componente Pai",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 2,
+      "conteudo": "Minha propriedade é decorada com @Input()",
+      "autoria": "Componente Filho",
+      "modelo": "modelo3"
+    },
+    {
+      "id": 3,
+      "conteudo": "Quel sabel como ganhei minhas cicatlizes? Meu pai ela um bêbado e um dlogado. Uma noite, ele chegou mais doido que o nolmal. Papai veio em minha dileção com uma faca me pelguntando 'pol que está tão sélio?' Colocou a lâmina na minha boca e pelguntou de novo: 'pol que está tão sélio? Vamos colocal um soliso em seu losto'. E agola eu pelgunto pala você: Pol que está tão sélio?",
+      "autoria": "Cebolinha",
+      "modelo": "modelo1"
+    }
+  ]
+}
